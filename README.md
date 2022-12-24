@@ -12,7 +12,7 @@ Vai ter:
 2. Rodape;
 3. Sidebar;
 4. Hero;
-5. Formulario;
+5. Formularios;
 6. Tabelas;
 7. Graficos;
 8. E muito mais;
