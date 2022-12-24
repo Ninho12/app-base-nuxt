@@ -19,7 +19,8 @@ Vai ter:
 
 ## Neste projeto vai ter paginas importantes
 
-Vai ter as principais paginas de aplicativo web.
+Vai ter as principais paginas de uma aplicativo web.
+
 São esses:
 
 1. Home ou Index;
