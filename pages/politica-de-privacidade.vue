@@ -1,22 +1,22 @@
 <template>
-    <main>
-        <h1>Politica de Privacidade</h1>
-        <pre>
-            Lorem ipsum dolor sit amet 
-            consectetur adipisicing elit. 
-            Pariatur eaque itaque placeat,
+    
+    <div>
+        <MenuPrincipal />
 
-            est excepturi illum provident 
-            at ipsa aliquid qui ratione 
-            fugit eum porro saepe quos 
-            numquam soluta ullam ducimus?
-        </pre>
-    </main>
+
+        <FooterPrincipal />
+    </div>
+
+
 </template>
 
 <script>
+import FooterPrincipal from '../components/partes/footer-principal.vue';
+import MenuPrincipal from '../components/partes/menu-principal.vue';
+
 export default {
-    name: 'Politica'
+    name: "Politica",
+    components: { FooterPrincipal, MenuPrincipal }
 }
 
 </script>
