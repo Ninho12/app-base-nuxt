@@ -1,6 +1,6 @@
 <template>
     <main>
-        <h1>Area Administrativa</h1>
+        <h1>Area do Padre</h1>
         <p>
             Qualquer coisa é importante.
             Mas não podemos exagerar.
@@ -10,7 +10,7 @@
 
 <script>
 export default{
-    name: 'AreaAdmin'
+    name: 'AreadoPadre'
 }
 
 </script>
